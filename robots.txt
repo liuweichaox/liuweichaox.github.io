@@ -1,0 +1,5 @@
+User-Agent: *
+Allow: /
+
+Host: https://liuweichaox.github.io
+Sitemap: https://liuweichaox.github.io/sitemap.xml
