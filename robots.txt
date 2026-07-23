@@ -1,5 +1,5 @@
 User-Agent: *
 Allow: /
 
-Host: https://liuweichaox.github.io
-Sitemap: https://liuweichaox.github.io/sitemap.xml
+Host: https://ingotstack.com
+Sitemap: https://ingotstack.com/sitemap.xml
